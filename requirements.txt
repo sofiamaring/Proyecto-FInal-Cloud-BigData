@@ -1,0 +1,4 @@
+flask
+pysaprk
+boto3
+numpy
